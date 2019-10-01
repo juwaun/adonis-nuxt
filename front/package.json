@@ -2,7 +2,7 @@
   "name": "login-nuxt",
   "version": "1.0.0",
   "description": "My brilliant Nuxt.js project",
-  "author": "Dadi Boonz",
+  "author": "Juwaun",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
