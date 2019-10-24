@@ -1,2 +1,2 @@
-# adonis-nuxt-login
+# adonis-nuxt
 A project using adonis with nuxtjs
